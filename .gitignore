@@ -8,8 +8,5 @@ venv/
 env/
 ENV/
 
-# scikit-learn datasets
-RCV1/
-
 # IDE
 .idea/
